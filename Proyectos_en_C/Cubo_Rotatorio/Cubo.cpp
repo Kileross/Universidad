@@ -119,9 +119,10 @@ int main() {
         angX += 0.02f;
         angY += 0.03f;
 
-        // Retraso para que la rotación no sea demasiado rápida
+        // Retraso para que la rotación no sea demasiado rapida
         Sleep(16); // Aproximadamente 60 FPS
     }
 
     return 0;
 }
+
